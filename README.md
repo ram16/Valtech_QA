@@ -1,14 +1,14 @@
 # Valtech_QA
 
-Test Automation Application
+#Test Automation Application
 
-Overview
+#Overview
 
 Built the sample automation framework for this test. Implemented 3 tests along with this framework.
 
 
 
-Technologies
+#Technologies
 
 *Java
 
@@ -26,7 +26,7 @@ ExtendReports
 
 Log4j
 
-Executing the Test
+#Executing the Test
 
 Run Testng.xml file(Right click and run as TestSuite)
 
@@ -34,15 +34,15 @@ Run 'mvn clean install -DskipTests'
 
 Run 'mvn test'
 
-Test Reports
+#Test Reports
 
-Refresh the project:
+#Refresh the project:
 
 1.Go to Target-output folder and copy the path of Extent.Html and paste in browser for reports
 
 2.Go to Target-output  folder and copy the path of index.Html and paste in browser for reports
 
-Improvements
+#Improvements
 
 Framework code needs to seperated as a dependent maven project.
 
