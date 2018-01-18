@@ -26,8 +26,9 @@ Run 'mvn clean install -DskipTests'
 Run 'mvn test'
 Test Reports
 Refresh the project:
-1.Go to Target folder and copy the path of Extent.Html and paste in browser for reports
-2.Go to Target folder and copy the path of index.Html and paste in browser for reports
+1.Go to Target-output folder and copy the path of Extent.Html and paste in browser for reports
+
+2.Go to Target-output  folder and copy the path of index.Html and paste in browser for reports
 
 Improvements
 
