@@ -1,0 +1,7 @@
+com\valtech\qa\base\TestBase.class
+com\valtech\pages\Homepage.class
+com\valtech\pages\Aboutpage.class
+com\valtech\pages\Contactpage.class
+com\valtech\pages\Workpage.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\valtech\pages\Servicespage.class
